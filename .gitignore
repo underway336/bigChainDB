@@ -1,9 +1,0 @@
-/node_modules/
-.vscode/
-*.log
-.DS_Store
-npm-debug.log
-.idea
-.env
-package-lock.json
-env.example
